@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "10310710051",
+    "project_id": "nsbm-map-a1203",
+    "storage_bucket": "nsbm-map-a1203.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:10310710051:android:19f92a18b081ddd09cd296",
+        "android_client_info": {
+          "package_name": "com.nsbm.map"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoux-x8slXrZU1cKB37TOW1oXaB6w3YKM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
